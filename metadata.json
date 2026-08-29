@@ -1,0 +1,6 @@
+{
+  "name": "GovStack AI - Digital Public Infrastructure & Governance",
+  "description": "AI-orchestrated Digital Public Infrastructure (DPI) platform featuring verifiable identity & consent exchange, autonomous grievance triage, predictive fiscal policy simulation, and public procurement fraud detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
